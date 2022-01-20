@@ -2,7 +2,7 @@
 
 ## DEPRECATION NOTICE
 
-**IMPORTANT**: This repo has been replaced by the [ntrip_client-release](https://github.com/ros2-gbp/ntrip_client-release) repo in the [ros2-gbp](https://github.com/ros2-gbp) repo.
+**IMPORTANT**: This repo has been replaced by the [microstrain_inertial_driver-release](https://github.com/ros2-gbp/microstrain_inertial_driver-release) repo in the [ros2-gbp](https://github.com/ros2-gbp) repo.
 
 The packages in the `microstrain_inertial` repository were released into the `rolling` distro by running `/home/microstrain/.local/bin/bloom-release microstrain_inertial --rosdistro rolling --no-web --non-interactive` on `Wed, 05 Jan 2022 18:33:14 -0000`
 
